@@ -15,3 +15,4 @@ docker.io/calico/node:v3.21.6
 docker.io/calico/kube-controllers:v3.21.6
 # k8s存储系列
 nfs-subdir-external-provisioner:v4.0.2
+metrics-server:v0.4.3
