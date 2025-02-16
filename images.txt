@@ -23,3 +23,5 @@ docker.io/calico/kube-controllers:v3.21.6
 # kubesphere
 kubesphere/ks-installer:v3.4.1
 mysql:5.7
+redis:6.2.5
+elasticsearch:7.13.4
