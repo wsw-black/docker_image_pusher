@@ -26,3 +26,4 @@ mysql:5.7
 redis:6.2.5
 elasticsearch:7.13.4
 nacos/nacos-server:v2.5.0
+cp0204/quark-auto-save:latest
